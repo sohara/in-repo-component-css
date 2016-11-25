@@ -4,6 +4,7 @@
     "ember-addon"
   ],
   "dependencies": {
+    "ember-cli-bourbon": "*",
     "ember-cli-htmlbars": "*",
     "ember-component-css": "*",
     "ember-cli-sass": "*"

@@ -5,7 +5,9 @@
     "ember-engine"
   ],
   "dependencies": {
-    "ember-cli-htmlbars": "*"
+    "ember-cli-htmlbars": "*",
+    "ember-cli-bourbon": "*",
+    "ember-cli-sass": "*"
   },
   "ember-addon" : {
     "paths": [
